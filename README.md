@@ -43,7 +43,7 @@ This project analyzes Airbnb listings using computational geometry to detect spa
    cd C:\Users\eshwa\Repos\DAA-proj
    
    # Create conda environment
-   conda create -n daa-proj python=3.11 -y
+   conda create -n daa-proj 
    conda activate daa-proj
    
    # Install dependencies
